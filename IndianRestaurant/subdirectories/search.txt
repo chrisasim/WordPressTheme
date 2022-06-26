@@ -1,0 +1,1672 @@
+
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!-- This is Squarespace. --><!-- thedharmakitchen -->
+<base href="">
+<meta charset="utf-8" />
+<title>About &mdash; The Dharma Kitchen</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1427565262107-RICZ7HH3TJHB4J1J94I2/favicon.ico?format=100w"/>
+<link rel="canonical" href="http://www.thedharmakitchen.com/about"/>
+<meta property="og:site_name" content="The Dharma Kitchen"/>
+<meta property="og:title" content="About &mdash; The Dharma Kitchen"/>
+<meta property="og:url" content="http://www.thedharmakitchen.com/about"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="About — The Dharma Kitchen"/>
+<meta itemprop="url" content="http://www.thedharmakitchen.com/about"/>
+<meta name="twitter:title" content="About — The Dharma Kitchen"/>
+<meta name="twitter:url" content="http://www.thedharmakitchen.com/about"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/c73f-iN8qijaMJtZQLagU_Dx9dpkdGB880eRHwNmHiJfeGXffFHN4UJLFRbh52jhWD9XjcZqFQjUZQsKw2bkjDsKZR935Q88jsTUiaiaO1sGZAsGjW4ljAlTieFGZAt0jhNlOYsGZAsGjW4ljAlTieFGZAt0jhNlOYsGZAsGjW4ljAlTieFGZAt0SaBujW48Sagyjh90jhNlOfG0iey8ZeyyScuy-h8Xjhy8dKoDSWmyScmDSeBRZPoRdhXK2YgkdayTdAIldcNhjPJeShFGZAu8H6qJtKGbMg62JMJ7fbKzMsMMeMb6MKG4fHXgIMMjgKMfH6qJK3IbMg6YJMJ7fbRRHyMMeMX6MKG4fHtgIMMjIfMfH6qJRMIbMg6sJMJ7fbRWMsMgeMb6MTMg1z5E7b9.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-df0bcb3fb161c9761a2a8-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-df0bcb3fb161c9761a2a8-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-0c99b8bf7f3dd5358b2f5-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-51def4af8f210f9d1e4fa-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-51def4af8f210f9d1e4fa-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ffebe74ab4e46c76dc704-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-ffebe74ab4e46c76dc704-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-5356c600ecb68ed971cf3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-5356c600ecb68ed971cf3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-733c13479868e43568350-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-733c13479868e43568350-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-cb1629545a06e6971eddd-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-cb1629545a06e6971eddd-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-8695b091db2cf6d0c8aa3-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-70726ef1bec308aee857d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-b6897879b43834e5a9661-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-3a11c75798160d66ee949-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-be78355642f85532400ca-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-53c004ac7d4bde1c92e38-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-936c4382370d6194e0a13-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-47af4e3e6819f8ce583ad-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-f08f1e7023c546572a66e-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-eb02dcb4b3625e38b5ed8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-e5f16e7b79715da2d569c-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-49c4a5f3dae67a728e3f4-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-8ac0c601f21dada966c13-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-abd5211abdef95d992655-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-7bb2169a5edade4c08ca7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-9d44f71b43856ff10e95e-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-5c733ce28f15b61f41f05-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-52ff6d015f277f1dc0b39-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-635e84ed935467d901585-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-4d585c3ab0b56e73aacfb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-623329fac74319b8b0b07-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-9eabb37cb7ba1b1da783a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-3bd18a71af0e4b073d9a2-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-e1a0cb8c5f0919c764845-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-8804675084a3982b022e3-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-1bbc55800996eab0a854b-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-9d0a55de1efafbb9218e1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-1b2bad41b9c3177d0283b-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-1ba8fbb119237da52a76a-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-ef94529873378652e6e86-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-6e6d68a9e23be5479af43-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-1f18e025ea682ade6293a-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-536018914e6956436e4a8-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-1681123e3019745e1c752-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-e02f37cb215feb91e3a3f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-6a12adfb436e09032b158-min.en-US.js"}},"pageType":2,"website":{"id":"54bfd561e4b042c4bf5099ea","identifier":"thedharmakitchen","websiteType":1,"contentModifiedOn":1587144100754,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-14400000,"timeZoneOffset":-14400000,"timeZoneAbbr":"EDT","siteTitle":"The Dharma Kitchen","fullSiteTitle":"About \u2014 The Dharma Kitchen","siteTagLine":"Where Om Meets Yum","siteDescription":"<p>Where Om Meets Yum. Food, Life and Yoga.&nbsp;</p>","location":{"mapZoom":9.0,"mapLat":40.404903857933384,"mapLng":-73.88780811396485,"markerLat":40.7207559,"markerLng":-74.00076130000002,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"5516ea18e4b0ef9291b041c7","shareButtonOptions":{"2":true,"1":true,"4":true,"3":true,"8":true,"7":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1427565080808-00NV97F2OH2D6G7X3WU9/dharmalogoTM.png","authenticUrl":"http://www.thedharmakitchen.com","internalUrl":"http://thedharmakitchen.squarespace.com","baseUrl":"http://www.thedharmakitchen.com","primaryDomain":"www.thedharmakitchen.com","socialAccounts":[{"serviceId":4,"userId":"14702632","userName":"writercarrie","screenname":"writercarrie","addedOn":1426777988790,"profileUrl":"https://twitter.com/writercarrie","iconUrl":"http://pbs.twimg.com/profile_images/554675546143985664/egTuS25l_normal.jpeg","collectionId":"550ae784e4b01b740cac5ca2","iconEnabled":true,"serviceName":"twitter"},{"serviceId":10,"userId":"29102949","userName":"writercarrie","screenname":"writercarrie","addedOn":1426778092168,"profileUrl":"http://instagram.com/writercarrie","iconUrl":"https://instagramimages-a.akamaihd.net/profiles/profile_29102949_75sq_1332586542.jpg","collectionId":"550ae7ece4b010460f0b0739","iconEnabled":true,"serviceName":"instagram"},{"serviceId":2,"userId":"16603224","screenname":"Carrie Havranek","addedOn":1429127159022,"profileUrl":"https://www.facebook.com/pages/The-Dharma-Kitchen/969901416373270","iconUrl":"http://graph.facebook.com/16603224/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":true,"screenshotId":"28498f6d33991f62ff5320bd2c5b6c95bcb6074cbf7454eb3879399978bd8a19","showOwnerLogin":false},"websiteSettings":{"id":"54bfd562e4b042c4bf5099ed","websiteId":"54bfd561e4b042c4bf5099ea","type":"Personal","subjects":[],"country":"US","state":"PA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"enabled_for_blogs","size":"small","shape":"round","color":"white"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"About","id":"54ef23abe4b0dd6c6d14163f","fullUrl":"/about","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","bannerImageHeight":"525px","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","tweak-v1-related-products-title-spacing":"50px"},"templateId":"5093f261e4b0979eac7cb299","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5093f258e4b0979eac7cb197/3319/scripts/","betaFeatureFlags":["member_areas_spanish_interviews","campaigns_attached_to_scheduling","campaigns_thumbnail_layout","asset_uploader_refactor","viewer-role-contributor-invites","reduce_general_search_api_traffic","commerce_site_visitor_metrics","campaigns_content_editing_survey","scheduling_block_schema_editor","member_areas_schedule_interview","commerce_restock_notifications","crm_show_subscriber_import_in_profiles","nested_categories_migration_enabled","commerce_clearpay","commerce_etsy_shipping_import","send_local_pickup_ready_email","commerce_category_id_discounts_enabled","background_art_onboarding","campaigns_global_uc_ab","customer_account_creation_recaptcha","campaigns_new_subscriber_search","commerce_etsy_product_import"],"impersonatedSession":false,"demoCollections":[{"collectionId":"50b7da21e4b05ce4893ea956","deleted":false}],"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://www.thedharmakitchen.com","name":"The Dharma Kitchen","description":"<p>Where Om Meets Yum. Food, Life and Yoga.&nbsp;</p>","image":"//images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1427565080808-00NV97F2OH2D6G7X3WU9/dharmalogoTM.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","email":"cbhavranek@gmail.com","telephone":"","sameAs":["https://twitter.com/writercarrie","http://instagram.com/writercarrie","https://www.facebook.com/pages/The-Dharma-Kitchen/969901416373270"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"https://static1.squarespace.com/static/54bfd561e4b042c4bf5099ea/t/5516ea18e4b0ef9291b041c7/1587144100754/","name":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/54bfd561e4b042c4bf5099ea/217/5093f261e4b0979eac7cb299/54eea52ce4b07f5412707675/3319/site.css"/><meta name="google-site-verification" content="Eqtr6Tnbfhj0TpLehnNDRaeFXJnl7aP3yx7gH9TwCGg" /><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script src="https://static1.squarespace.com/static/ta/5093f258e4b0979eac7cb197/3319/scripts/site-bundle.js" type="text/javascript"></script>
+  </head>
+  
+  <body id="collection-54ef23abe4b0dd6c6d14163f" class="header-icons header-dropdown-contact-or-location-search always-show-nav  title-decoration-none  blog-text-width-narrow  show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts      gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-54ef23abe4b0dd6c6d14163f collection-layout-default mobile-style-available has-main-image logo-image has-location has-description has-email">
+
+    <div class="contact-wrapper">
+      <div class="contact-inner-wrapper">
+        <div class="sqs-layout sqs-grid-12 columns-12 sqs-locked-layout" data-layout-label="Header Contact Info Block" data-type="block-field" data-updated-on="1413387585375" id="contactBlock"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-59fffaa48d3b263d8f7e"><div class="sqs-block-content"><h3>Contact Us</h3><p>Use the form on the right to contact us.</p><p>You can edit the text in this area, and change where the contact form on the right submits to, by entering edit mode using the modes on the bottom right.&nbsp;</p>
+
+
+</div></div></div><div class="col sqs-col-6 span-6"></div></div></div>
+      </div>
+    </div>
+
+    <div id="contactInfo">
+      <div class="contact-inner-wrapper contact-info-inner-wrapper">
+
+        <div class="map-image"><a href="//maps.google.com/maps?q=40.404903857933384,-73.88780811396485" target="_blank" title="View map in new window" data-latitude="40.404903857933384" data-longitude="-73.88780811396485" data-zoom="9"></a></div>
+
+        <div class="address-phone-email">
+              <p>123 Street Avenue, City Town, 99999</p>
+              <p>(123) 555-6789</p>
+              <p>email@address.com</p>
+              <p>&nbsp;</p>
+              <p>You can set your address, phone number, email and site description in the settings tab.<br />Link to <a href="/read-me">read me page</a> with more information.</p>
+            </div>
+
+      </div>
+    </div>
+    <nav id="mobile-navigation" class="mobile-nav">
+      
+<div class="nav-wrapper" data-content-field="navigation-mobileNav">
+  <ul>
+  
+  
+    
+    <li class=""><a href="/">Home</a></li>
+    
+    
+  
+  
+  
+    
+    <li class=" active-link"><a href="/about">About</a></li>
+    
+    
+  
+  
+  
+    
+    <li class=""><a href="/recipes">Recipes</a></li>
+    
+    
+  
+  
+  
+    
+    <li class=""><a href="/eat-local">Eat Local</a></li>
+    
+    
+  
+  
+  
+    
+    <li class=""><a href="/new-page-1">Om</a></li>
+    
+    
+  
+  
+  
+  </ul>
+</div>
+
+
+    </nav>
+    <div class="opacity-overlay"></div>
+    <div class="outer-wrapper">
+      <div class="wrapper cf">
+        <div id="mobile-header">
+          <a class="icon-menu" id="mobileMenu"></a><!-- comment the space between elements because science
+          --><div class="site-title-wrapper">
+            <h1 data-content-field="site-title" class="site-title">
+              <a href="/" class="home-link">The Dharma Kitchen</a>
+            </h1>
+          </div><!-- comment the space between elements because science
+          --><div class="info-email-wrapper">
+            <a id="info-mobile" class="icon-info"><span class="icon-text">Info</span></a>
+            <div id="email-mobile">
+              <a class="icon-email"><span class="icon-text">Email</span></a>
+            </div>
+            <div id="search-mobile">
+              <a class="icon-search" href="/search" data-source="template"><span class="icon-text">Search</span></a>
+            </div>
+          </div>
+        </div>
+        <header id="header">
+
+          <!--MAIN NAVIGATION-->
+          <nav id="main-navigation" class="main-nav">
+            <div class="info-title-email-wrapper">
+
+              <a class="icon-menu" id="desktopMenu"><span class="icon-text">Menu</span></a>
+
+              
+              <div class="site-title-wrapper">
+                <h1 data-content-field="site-title" class="site-title">
+                    
+                     <div class="logo-wrapper"><a href="/" class="home-link"><img src="//images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1427565080808-00NV97F2OH2D6G7X3WU9/dharmalogoTM.png?format=1500w" alt="The Dharma Kitchen" class="logo" /></a></div>
+                     <div class="logo-image-title"><a href="/" class="home-link">The Dharma Kitchen</a></div>
+                    
+                </h1>
+              </div>
+              
+
+              <a id="info" class="icon-info"><span class="icon-text">Info</span></a>
+              <div id="email">
+                <a class="icon-email"><span class="icon-text">Email</span></a>
+              </div>
+              <div id="headerSearch">
+                <a class="icon-search" href="/search" data-source="template"><span class="icon-text">Search</span></a>
+              </div>
+            </div>
+            
+<div class="nav-wrapper" data-content-field="navigation-mainNav">
+  <ul class="cf">
+  
+    
+
+    
+    <li class=""><a href="/">Home</a></li>
+    
+
+    
+    
+  
+    
+
+    
+    <li class=" active-link"><a href="/about">About</a></li>
+    
+
+    
+    
+  
+    
+
+    
+    <li class=""><a href="/recipes">Recipes</a></li>
+    
+
+    
+    
+  
+    
+
+    
+    <li class=""><a href="/eat-local">Eat Local</a></li>
+    
+
+    
+    
+  
+    
+
+    
+    <li class=""><a href="/new-page-1">Om</a></li>
+    
+
+    
+    
+  
+
+  
+  </ul>
+</div>
+
+
+          </nav>
+        </header>
+        <!--CONTENT INJECTION POINT-->
+
+        <section id="content">
+          
+            
+              
+              
+                
+                  
+                
+              
+            
+          
+        
+        
+
+        
+
+        <div class="content-inner-wrapper">
+          <div class="collection-title-desc" data-collection-id="54ef23abe4b0dd6c6d14163f" data-edit-main-image="Banner">
+            <div class="collection-title-basic"><h1 class="page-title">About</h1></div>
+            
+          </div>
+            <div class="main-content-wrapper" data-content-field="main-content" data-collection-id="54ef23abe4b0dd6c6d14163f" data-edit-main-image="Banner">
+              <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1586452775512" id="page-54ef23abe4b0dd6c6d14163f"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1426776389019_11235"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="109.33333333333333" data-block-type="5" id="block-yui_3_17_2_5_1426115997759_5683"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:109.33333587646484%;
+                
+                overflow: hidden;
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1426280889739-DUNDYATXLKLJ766HYVL1/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1426280889739-DUNDYATXLKLJ766HYVL1/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/54bfd561e4b042c4bf5099ea/1426280889739-DUNDYATXLKLJ766HYVL1/image-asset.jpeg" data-image-dimensions="2500x2500" data-image-focal-point="0.5238095238095238,0.11904761904761904" alt="" data-load="false" data-image-id="550351b9e4b07d28918d05ff" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_5_1426115997759_10745"><div class="sqs-block-content"><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">I found my purpose with writing, food and yoga—roughly in that order. The Dharma Kitchen is about cooking and living mindfully and with intent, an idea that is borne equally out of my time in the kitchen and on the mat. These zones are not so different, for they are where we get to try new things, stretch our limits, experiment, and use our creativity. The Dharma Kitchen is a place where I share recipes, stories and ideas, and invite other like-minded individuals to do the same, too. We’re all connected, you know?</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">Curious about how we can work together? Contact me. Check out a list of my most recent work right<a href="http://www.thedharmakitchen.com/carrie-havranek/aboutcarrie"> here. </a></p>
+
+
+</div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-yui_3_17_2_4_1426776971094_7889"><div class="sqs-block-content">
+
+
+
+
+
+
+  <div data-animation-role="button" class="lightbox-handle-wrapper lightbox-handle-wrapper--align-left">
+    <button class="lightbox-handle sqs-system-button sqs-editable-button sqs-button-element--primary">
+      
+        Contact
+      
+    </button>
+  </div>
+
+
+<div class="form-wrapper hidden"
+  
+>
+  <div class="form-title">Say Hello! Ask a Question!</div>
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="550ae3d6e4b065b3590856c2"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://thedharmakitchen.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '550ae3d6e4b065b3590856c2',
+      collectionId: '54ef23abe4b0dd6c6d14163f',
+      objectName: 'page-54ef23abe4b0dd6c6d14163f'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1426776971094_8639" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1426776971094_8969" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1426776971094_8969-field">
+              Email Address
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1426776971094_8969-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1426776971094_9383" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1426776971094_9383-field">
+              Subject
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1426776971094_9383-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1426776971094_9797" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1426776971094_9797-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1426776971094_9797-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div 
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Submit"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p>Thank you and Namaste!</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1426776389019_11995"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+            </div>
+        </div>
+        </section>
+      </div> <!-- end .wrapper -->
+
+      
+<div class="footer-nav">
+  <nav id="footer-navigation" class="" data-content-field="navigation-footer-navigation">
+  <div class="nav">
+    <ul class="cf">
+    
+      
+
+            
+              <li class=""><a href="/legal">legal</a></li>
+            
+
+            
+
+          
+        
+    
+  </ul>
+  </div>
+</nav>
+</div>
+  <script>
+    Y.use('node', function() {
+      Y.on('domready', function() {
+        if(('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+        var move = false;
+        Y.all('.folder-child a').each(function(a) {
+          a.on('touchmove', function()
+          { move = true; }
+          );
+          a.on('touchend', function() {
+            if (move === false)
+            { window.location = a.getAttribute('href'); }
+          });
+        });
+        }
+      });
+    });
+  </script>
+
+
+      <footer id="footer" class="cf">
+        <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Left Footer Content" data-type="block-field" data-updated-on="1490127870096" id="footerBlockLeft"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_4_1426779690434_8000"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-left social-icons-color-white social-icons-size-large social-icons-shape-circle social-icons-style-knockout" >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://twitter.com/writercarrie" target="_blank" class="sqs-svg-icon--wrapper twitter" aria-label="writercarrie">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://instagram.com/writercarrie" target="_blank" class="sqs-svg-icon--wrapper instagram" aria-label="writercarrie">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/pages/The-Dharma-Kitchen/969901416373270" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="Carrie Havranek">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-yui_3_17_2_4_1426779690434_8762"><div class="sqs-block-content">
+
+
+
+
+
+
+  <div data-animation-role="button" class="lightbox-handle-wrapper lightbox-handle-wrapper--align-left">
+    <button class="lightbox-handle sqs-system-button sqs-editable-button sqs-button-element--primary">
+      
+        Say Hello!
+      
+    </button>
+  </div>
+
+
+<div class="form-wrapper hidden"
+  
+>
+  <div class="form-title">Say Hello!</div>
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="550aefabe4b06e90e1f072e0"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://thedharmakitchen.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '550aefabe4b06e90e1f072e0',
+      collectionId: '',
+      objectName: 'footerBlockLeft'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1426779690434_12527" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1426779690434_12857" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1426779690434_12857-field">
+              Email Address
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1426779690434_12857-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1426779690434_13271" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1426779690434_13271-field">
+              Subject
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1426779690434_13271-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1426779690434_13685" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1426779690434_13685-field">
+              Message
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1426779690434_13685-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div 
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Submit"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text">Thank you!</div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div><div class="sqs-block rss-block sqs-block-rss" data-block-type="49" id="block-yui_3_17_2_10_1429120158375_7233"><div class="sqs-block-content">
+
+
+
+<a href="http://www.thedharmakitchen.com/carrie-havranek?format=rss" title="Dharma Kitchen RSS" class="social-rss">Dharma Kitchen RSS</a>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2928c3ba013eb27de00d"><div class="sqs-block-content"><p><strong>© November 2014</strong></p><p> </p>
+
+
+</div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_6_1490035021338_18998"><div class="sqs-block-content"><p>Want to be informed about happenings in the Dharma Kitchen? Sign up for the monthly newsletter here! Namaste.</p>
+ <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/cbhavranek" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/cbhavranek', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form></div></div></div></div></div>
+        <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Right Footer Content" data-type="block-field" data-updated-on="1426780420447" id="footerBlockRight"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;collectionId&quot;:&quot;54c03d5be4b0e9dbacc9fc45&quot;,&quot;design&quot;:&quot;list&quot;,&quot;headerText&quot;:&quot;Featured&quot;,&quot;textSize&quot;:&quot;small&quot;,&quot;pageSize&quot;:3,&quot;imageAspectRatio&quot;:&quot;1.5&quot;,&quot;columnWidth&quot;:270,&quot;gutter&quot;:60,&quot;listImageSize&quot;:47,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:3,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:false,&quot;showExcerpt&quot;:false,&quot;showReadMoreLink&quot;:false,&quot;showPrice&quot;:true,&quot;showPastOrUpcomingEvents&quot;:&quot;Upcoming&quot;,&quot;metadataPosition&quot;:&quot;below-content&quot;,&quot;primaryMetadata&quot;:&quot;none&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true,&quot;hSize&quot;:null,&quot;floatDir&quot;:null&#125;" data-block-type="55" id="block-yui_3_17_2_2_1426780349621_5567"><div class="sqs-block-content">
+
+
+
+
+
+<div class="
+  summary-block-wrapper
+
+  summary-block-collection-type-blog
+
+  summary-block-setting-text-size-small
+  summary-block-setting-text-align-left
+
+  summary-block-setting-design-list
+  summary-block-setting-design-list-thumbnail-left
+
+  summary-block-setting-metadata-position-below-content
+  summary-block-setting-primary-metadata-none
+  summary-block-setting-secondary-metadata-none
+
+  
+  summary-block-setting-show-title
+  summary-block-setting-show-price
+  summary-block-setting-hide-excerpt
+  
+
+  
+
+  sqs-gallery-design-list
+
+  
+  "
+
+  
+>
+
+  <div class="summary-item-list-container sqs-gallery-container">
+
+    <header class="summary-block-header">
+      
+      <div class="summary-heading" data-animation-role="content">
+        
+          <span class="summary-header-text">Featured</span>
+        
+      </div>
+
+      
+      <div class="summary-carousel-pager sqs-gallery-controls" data-animation-role="content">
+        <span
+          class="summary-carousel-pager-prev previous"
+          tabindex="0"
+          role="button"
+          aria-label="Previous"
+        ></span>
+        <span
+          class="summary-carousel-pager-next next"
+          tabindex="0"
+          role="button"
+          aria-label="Next"
+        ></span>
+      </div>
+
+    </header>
+
+    <div class="summary-item-list sqs-gallery">
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          
+          
+          summary-item-has-author
+          summary-item-has-comments-enabled
+          "
+          >
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/carrie-havranek/jakljx6ztasrwym2y8rp37br6h66eg"
+                  
+                
+                class="summary-title-link">Root Chakra Soup with Sweet Potatoes, Red Onion and Red Lentils</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          summary-item-has-comments-enabled
+          "
+          >
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/carrie-havranek/cheht2yzbpgze5r9jctekbjfm3ep9e"
+                  
+                
+                class="summary-title-link">Tomato Onion Chutney and Cilantro Coconut Chutney</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          summary-item-has-comments-enabled
+          "
+          >
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/carrie-havranek/mdelhdgzb5pm4wpnnynbgeyn787lfg"
+                  
+                
+                class="summary-title-link">Indian Breakfast Bowl</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+</div></div></div></div></div>
+      </footer>
+    </div> <!-- end .outer-wrapper -->
+
+    <!--INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="instagram-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol></svg>
+
+
+  </body>
+</html>
